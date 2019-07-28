@@ -1,0 +1,1 @@
+<?= $this->Form->select('user_confirmed', ['yes' => __('Ναι'), 'no' => __('Όχι')], ['default' => ($confirmed === true ? 'yes' : 'no'), 'class' => 'form-control user-confirmed', 'data-user-id' => $userId]) ?>

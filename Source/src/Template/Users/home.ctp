@@ -1,0 +1,1 @@
+<?= $this->element($this->UserRole->pluralCamel($user) . '/home') ?>
