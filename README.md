@@ -4,6 +4,8 @@
 
 Created with *CakePHP*, *MySQL*, *Bootstrap 4*, *JQuery*
 
+Co-created with [Alex Solanos](https://github.com/hytromo)
+
 App Schema: ![app schema](https://github.com/themetalfleece/university-department-eclass-project/blob/master/Screenshots/db.png)
 
 Detailed functionality can be found in the Report (or in the [screenshots directory](https://github.com/themetalfleece/university-department-eclass-project/tree/master/Screenshots)). Here are some examples:
